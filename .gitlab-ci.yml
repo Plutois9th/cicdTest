@@ -3,7 +3,7 @@ default:
   tags:
     - dockerRunner
 
-  stages:
+stages:
     - test
 
 Integration tests with Allure:
