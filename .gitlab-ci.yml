@@ -6,7 +6,7 @@ default:
 stages:
     - test
 
-Domo test:
+Demo test:
   stage: test
   script:
     - mvn clean test
