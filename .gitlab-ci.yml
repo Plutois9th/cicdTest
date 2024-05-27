@@ -14,4 +14,4 @@ Integration tests with Allure:
 
   artifacts:
     paths:
-    - target/*
+    - allure-results/*
